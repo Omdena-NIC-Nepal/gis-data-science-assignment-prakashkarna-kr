@@ -1,0 +1,10 @@
+numpy
+pandas
+matplotlib
+seaborn
+geopandas
+rasterio
+jupyter
+notebook
+folium
+fiona
